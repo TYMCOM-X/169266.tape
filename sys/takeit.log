@@ -1,0 +1,602 @@
+16-JUN-95 12:40:26  ** Session begins: TAKEIT version 47.
+16-JUN-95 12:40:26  * Opername: HIGHTOWER, Username: OPER
+16-JUN-95 12:40:26  * Another job set SCHED 400000 from 0
+16-JUN-95 12:40:42  KILL 7
+16-JUN-95 12:40:42  * Killed job 7, user NOVAFIELD <1022F4> TI
+16-JUN-95 12:40:51  KILL 9
+16-JUN-95 12:40:51  * Killed job 9, user NOVAFIELD <1022F4> TI
+16-JUN-95 12:41:31  KILL 13
+16-JUN-95 12:41:31  * Killed job 13, user ENMC <1022F4> SL
+16-JUN-95 12:41:47  KILL 14
+16-JUN-95 12:41:47  * Killed job 14, user NSCEAST <1022F4> TI
+16-JUN-95 12:41:48  ?!FOSAA failure: job 14, user NSCEAST <LOGOUT> SW
+16-JUN-95 12:42:12  KILL 16
+16-JUN-95 12:42:12  * Killed job 16, user UKOPS <1022F4> TI
+16-JUN-95 12:42:29  KILL 17
+16-JUN-95 12:42:29  * Killed job 17, user FLMTECH <1022F4> TI
+16-JUN-95 12:42:48  KILL 18
+16-JUN-95 12:42:48  * Killed job 18, user CSS800 <1022F4> TI
+16-JUN-95 12:43:07  KILL 20
+16-JUN-95 12:43:07  * Killed job 20, user CSS800 <1022F4> TI
+16-JUN-95 12:43:24  KILL 21
+16-JUN-95 12:43:25  * Killed job 21, user CSS800 <1022F4> TI
+16-JUN-95 12:43:51  KILL 25
+16-JUN-95 12:43:51  * Killed job 25, user PSNEDDON <1022F4> TI
+16-JUN-95 12:44:16  KILL 31
+16-JUN-95 12:44:16  * Killed job 31, user CSS800 <1022F4> TI
+16-JUN-95 12:44:47  KILL 35
+16-JUN-95 12:44:47  * Killed job 35, user ENMC <1022F4> TI
+16-JUN-95 12:45:04  KILL 36
+16-JUN-95 12:45:04  * Killed job 36, user FLMTECH <1022F4> TI
+16-JUN-95 12:45:36  KILL 39
+16-JUN-95 12:45:36  * Killed job 39, user NOVAFIELD <1022F4> TI
+16-JUN-95 12:45:55  KILL 40
+16-JUN-95 12:45:55  * Killed job 40, user CSS800 <1022F4> TI
+16-JUN-95 12:47:17  KILL 41
+16-JUN-95 12:47:17  * Killed job 41, user CSS800 <1022F4> SL
+16-JUN-95 12:47:35  KILL 44
+16-JUN-95 12:47:35  * Killed job 44, user NTS <1022F4> TI
+16-JUN-95 12:47:51  KILL 48
+16-JUN-95 12:47:51  * Killed job 48, user FLMTECH <1022F4> TI
+16-JUN-95 12:48:11  KILL 50
+16-JUN-95 12:48:11  * Killed job 50, user ECSC <1022F4> RN
+16-JUN-95 12:48:29  KILL 52
+16-JUN-95 12:48:29  * Killed job 52, user NSCEAST <1022F4> TI
+16-JUN-95 12:48:30  ?!FOSAA failure: job 52, user NSCEAST <LOGOUT> RN
+16-JUN-95 12:48:51  KILL 54
+16-JUN-95 12:48:51  * Killed job 54, user CSS800 <1022F4> TI
+16-JUN-95 12:49:04  KILL 55
+16-JUN-95 12:49:04  * Killed job 55, user NTS <1022F4> TI
+16-JUN-95 12:49:15  KILL 56
+16-JUN-95 12:49:15  * Killed job 56, user CSS800 <1022F4> TI
+16-JUN-95 12:49:39  KILL 58
+16-JUN-95 12:49:39  * Killed job 58, user CSS800 <1022F4> SL
+16-JUN-95 12:49:53  KILL 59
+16-JUN-95 12:49:53  * Killed job 59, user CSS800 <1022F4> SL
+16-JUN-95 12:50:05  KILL 60
+16-JUN-95 12:50:05  * Killed job 60, user NSSC <1022F4> TI
+16-JUN-95 12:50:26  KILL 62
+16-JUN-95 12:50:26  * Killed job 62, user CSS800 <1022F4> TI
+16-JUN-95 13:00:31  KILL 8
+16-JUN-95 13:00:31  * Killed job 8, user BTSWE <1022F4> RN
+16-JUN-95 13:01:02  KILL 10
+16-JUN-95 13:01:02  * Killed job 10, user CSS800 <1022F4> SL
+16-JUN-95 13:01:21  KILL 11
+16-JUN-95 13:01:21  * Killed job 11, user BTNL <1022F4> SL
+16-JUN-95 13:01:57  KILL 22
+16-JUN-95 13:01:57  * Killed job 22, user UK800 <1022F4> SL
+16-JUN-95 13:05:50  KILL 116
+16-JUN-95 13:05:50  * Killed job 116, user CSS800 <1022F4> TI
+16-JUN-95 13:06:00  KILL 111
+16-JUN-95 13:06:00  * Killed job 111, user CSS800 <1022F4> TI
+16-JUN-95 13:06:11  KILL 104
+16-JUN-95 13:06:11  * Killed job 104, user NSSC <1022F4> TI
+16-JUN-95 13:06:20  KILL 103
+16-JUN-95 13:06:20  * Killed job 103, user CSS800 <1022F4> TI
+16-JUN-95 13:06:37  KILL 97
+16-JUN-95 13:06:37  * Killed job 97, user RWONG <1022F4> TI
+16-JUN-95 13:06:37  ?!FOSAA failure: job 97, user RWONG <LOGOUT> RN
+16-JUN-95 13:06:50  KILL 96
+16-JUN-95 13:06:50  * Killed job 96, user UK800 <1022F4> TI
+16-JUN-95 13:07:02  KILL 95
+16-JUN-95 13:07:02  * Killed job 95, user NTS <1022F4> TI
+16-JUN-95 13:07:15  KILL 94
+16-JUN-95 13:07:15  * Killed job 94, user CSS800 <1022F4> TI
+16-JUN-95 13:07:25  KILL 91
+16-JUN-95 13:07:25  * Killed job 91, user ENMC <1022F4> TI
+16-JUN-95 13:07:37  KILL 90
+16-JUN-95 13:07:37  * Killed job 90, user NTS <1022F4> TI
+16-JUN-95 13:07:47  KILL 89
+16-JUN-95 13:07:47  * Killed job 89, user CSS800 <1022F4> TI
+16-JUN-95 13:07:56  KILL 88
+16-JUN-95 13:07:56  * Killed job 88, user NETCON <1022F4> TI
+16-JUN-95 13:08:08  KILL 87
+16-JUN-95 13:08:08  * Killed job 87, user MCOLLINS <1022F4> TI
+16-JUN-95 13:08:25  KILL 81
+16-JUN-95 13:08:25  * Killed job 81, user UL6NET <1022F4> TI
+16-JUN-95 13:08:41  KILL 80
+16-JUN-95 13:08:41  * Killed job 80, user NETCON <1022F4> TI
+16-JUN-95 13:09:02  KILL 75
+16-JUN-95 13:09:02  * Killed job 75, user CSS800 <1022F4> TI
+16-JUN-95 13:09:18  KILL 73
+16-JUN-95 13:09:18  * Killed job 73, user CSS800 <1022F4> TI
+16-JUN-95 13:09:36  KILL 71
+16-JUN-95 13:09:36  * Killed job 71, user UKOPS <1022F4> TI
+16-JUN-95 13:09:51  KILL 70
+16-JUN-95 13:09:51  * Killed job 70, user FLMTECH <1022F4> TI
+16-JUN-95 13:10:01  KILL 69
+16-JUN-95 13:10:01  * Killed job 69, user UKOPS <1022F4> TI
+16-JUN-95 13:10:23  KILL 65
+16-JUN-95 13:10:23  * Killed job 65, user UKMYEL <1022F4> TI
+16-JUN-95 13:10:23  ?!FOSAA failure: job 65, user UKMYEL <LOGOUT> RN
+16-JUN-95 13:10:39  KILL 64
+16-JUN-95 13:10:39  * Killed job 64, user MCOLLINS <1022F4> TI
+16-JUN-95 13:10:58  KILL 49
+16-JUN-95 13:10:58  * Killed job 49, user NETCON <1022F4> TI
+16-JUN-95 13:11:12  KILL 43
+16-JUN-95 13:11:12  * Killed job 43, user NSSC <1022F4> TI
+16-JUN-95 13:11:28  KILL 34
+16-JUN-95 13:11:28  * Killed job 34, user ENMC <1022F4> TI
+16-JUN-95 13:12:17  KILL 86
+16-JUN-95 13:12:17  * Killed job 86, user TLY <1022F4> TI
+16-JUN-95 13:12:17  ?!FOSAA failure: job 86, user TLY <LOGOUT> RN
+16-JUN-95 13:12:25  KILL 72
+16-JUN-95 13:12:25  * Killed job 72, user ENMC <1022F4> TI
+16-JUN-95 13:12:32  KILL 68
+16-JUN-95 13:12:33  * Killed job 68, user FLMTECH <1022F4> TI
+16-JUN-95 13:12:39  KILL 67
+16-JUN-95 13:12:39  * Killed job 67, user CSS800 <1022F4> TI
+16-JUN-95 13:12:48  KILL 51
+16-JUN-95 13:12:48  * Killed job 51, user NSSC <1022F4> TI
+16-JUN-95 13:12:56  KILL 46
+16-JUN-95 13:12:56  * Killed job 46, user NETCON <1022F4> TI
+16-JUN-95 13:13:02  KILL 33
+16-JUN-95 13:13:02  * Killed job 33, user MCOLLINS <1022F4> TI
+16-JUN-95 13:13:11  KILL 27
+16-JUN-95 13:13:11  * Killed job 27, user ECSC <1022F4> TI
+16-JUN-95 13:13:20  KILL 26
+16-JUN-95 13:13:20  * Killed job 26, user NSSC <1022F4> TI
+16-JUN-95 13:13:29  KILL 24
+16-JUN-95 13:13:29  * Killed job 24, user UKMYEL <1022F4> TI
+16-JUN-95 13:13:29  ?!FOSAA failure: job 24, user UKMYEL <LOGOUT> SW
+16-JUN-95 13:13:39  KILL 23
+16-JUN-95 13:13:39  * Killed job 23, user FLMTECH <1022F4> TI
+16-JUN-95 13:13:49  KILL 12
+16-JUN-95 13:13:49  * Killed job 12, user CSS800 <1022F4> TI
+16-JUN-95 13:14:10  QUIT 
+16-JUN-95 13:14:10  ** Session ends.
+
+14-JUN-95 20:31:35  ** Session begins: TAKEIT version 47.
+14-JUN-95 20:31:35  * Opername: ACOSTAP, Username: OPER
+14-JUN-95 20:31:40  AUTO 
+14-JUN-95 20:32:10  AUTO 
+14-JUN-95 20:32:33  * Countdown = 27 minutes, Grace = 5
+14-JUN-95 20:32:33  * "System going down as per schedule."
+14-JUN-95 20:32:33  * Warning: 27 minutes /PA
+14-JUN-95 20:49:37  * Warning: 10 minutes /PA
+14-JUN-95 20:54:35  * Warning: 5 minutes /PA
+14-JUN-95 20:57:34  * Warning: 2 minutes /PA
+14-JUN-95 20:58:33  * System shut (0 -> 400000)
+14-JUN-95 20:58:33  * Warning: 1 minute /PA
+14-JUN-95 20:59:33  * System super shut (400000 -> 600000)
+14-JUN-95 20:59:33  * Warning: 0 minutes /PA
+14-JUN-95 20:59:37  * Killed job 3, user OPER <CRSH98> SL
+14-JUN-95 20:59:37  * Evicted job 4, user PERPOPER <XEXEC> RN
+14-JUN-95 20:59:37  * Evicted job 5, user PERPOPER <SYSLOG> RN
+14-JUN-95 20:59:37  * Evicted job 6, user PERPOPER <CRON> RN
+14-JUN-95 20:59:38  * Killed job 10, user NSSC <1022F4> ^C
+14-JUN-95 20:59:38  * Killed job 24, user NTS <1022F4> ^C
+14-JUN-95 20:59:38  * Killed job 27, user PAPDEV <X22> ^C
+14-JUN-95 20:59:40  * Killed job 14, user NSCNET <LOGOUT> SW
+14-JUN-95 20:59:40  * Killed job 35, user NSSC <LOGOUT> SW
+14-JUN-95 20:59:54  * Killed job 66, user NETCON <1022F4> ^C
+14-JUN-95 21:01:25  * Killed job 8, user NSSC <1022F4> ^C
+14-JUN-95 21:01:53  * Killed job 33, user NSSC <1022F4> ^C
+14-JUN-95 21:02:22  * Killed job 18, user CSS800 <ZEN> RN
+14-JUN-95 21:02:22  ??!FOHLT error ' for job 18, user  <LOGOUT> ^C
+14-JUN-95 21:02:26  * Killed job 50, user CSS800 <1022F4> ^C
+14-JUN-95 21:02:42  * Killed job 9, user CSS800 <1022F4> ^C
+14-JUN-95 21:03:18  * Killed job 54, user FLMTECH <1022F4> ^C
+14-JUN-95 21:03:19  * Killed job 51, user NOVAFIELD <1022F4> ^C
+14-JUN-95 21:03:26  * Killed job 40, user FLMTECH <1022F4> ^C
+14-JUN-95 21:04:04  * Killed job 12, user NSSC <1022F4> TI
+14-JUN-95 21:04:04  * Killed job 13, user NSSC <1022F4> TI
+14-JUN-95 21:04:04  * Killed job 15, user NSSC <1022F4> TI
+14-JUN-95 21:04:04  * Killed job 17, user NSCNET <1022F4> TI
+14-JUN-95 21:04:05  * Killed job 19, user NTS <1022F4> TI
+14-JUN-95 21:04:05  * Killed job 20, user ENMC <1022F4> TI
+14-JUN-95 21:04:05  * Killed job 21, user BTHK <1022F4> TI
+14-JUN-95 21:04:07  * Killed job 22, user BTHK <1022F4> TI
+14-JUN-95 21:04:07  * Killed job 23, user BTSNG <1022F4> TI
+14-JUN-95 21:04:07  * Killed job 25, user ECSC <1022F4> RN
+14-JUN-95 21:04:09  * Killed job 26, user CSS800 <1022F4> TI
+14-JUN-95 21:04:09  * Killed job 28, user UKMYEL <1022F4> TI
+14-JUN-95 21:04:09  * Killed job 29, user UKOPS <1022F4> TI
+14-JUN-95 21:04:10  * Killed job 30, user CSS800 <1022F4> TI
+14-JUN-95 21:04:10  * Killed job 31, user BTHK <1022F4> TI
+14-JUN-95 21:04:10  * Killed job 32, user NTS <1022F4> TI
+14-JUN-95 21:04:12  * Killed job 34, user CSS800 <1022F4> TI
+14-JUN-95 21:04:12  * Killed job 36, user NETCON <1022F4> TI
+14-JUN-95 21:04:12  * Killed job 37, user NETCON <1022F4> TI
+14-JUN-95 21:04:14  * Killed job 38, user CSS800 <1022F4> TI
+14-JUN-95 21:04:14  * Killed job 41, user BTHK <1022F4> TI
+14-JUN-95 21:04:14  * Killed job 42, user FLMTECH <1022F4> TI
+14-JUN-95 21:04:16  * Killed job 44, user FLMTECH <1022F4> TI
+14-JUN-95 21:04:16  * Killed job 45, user RNMCAP <1022F4> TI
+14-JUN-95 21:04:16  * Killed job 47, user NTS <1022F4> TI
+14-JUN-95 21:04:18  * Killed job 48, user BTHK <1022F4> TI
+14-JUN-95 21:04:18  * Killed job 49, user CSS800 <1022F4> TI
+14-JUN-95 21:04:20  * Killed job 52, user CSS800 <1022F4> TI
+14-JUN-95 21:04:20  * Killed job 55, user NSCNET <1022F4> TI
+14-JUN-95 21:04:20  * Killed job 56, user BTGER <1022F4> TI
+14-JUN-95 21:04:24  * Killed job 58, user NSSC <1022F4> TI
+14-JUN-95 21:04:24  * Killed job 59, user FLMTECH <1022F4> TI
+14-JUN-95 21:04:24  * Killed job 61, user CSS800 <1022F4> TI
+14-JUN-95 21:04:28  * Killed job 62, user NTS <1022F4> TI
+14-JUN-95 21:04:28  * Killed job 64, user ENMC <1022F4> TI
+14-JUN-95 21:04:28  * Killed job 65, user NSSC <1022F4> TI
+14-JUN-95 21:04:32  * Killed job 77, user UKMYEL <1022F4> TI
+14-JUN-95 21:04:51  * Killed job 1, user PJ <PAM> SL
+14-JUN-95 21:04:51  * Evicted job 2, user OPER <CHKPNT> SW
+14-JUN-95 21:04:55  * Hanging system...
+14-JUN-95 21:04:55  ** Session ends.
+
+10-JUN-95 22:08:45  ** Session begins: TAKEIT version 47.
+10-JUN-95 22:08:45  * Opername: ZACHARYE, Username: OPER
+10-JUN-95 22:08:50  AUTO 
+10-JUN-95 22:09:09  * Countdown = 50 minutes, Grace = 5
+10-JUN-95 22:09:09  * "System going down as per schedule."
+10-JUN-95 22:29:11  * Warning: 30 minutes /EZ
+10-JUN-95 22:45:31  IMMUNE 10
+10-JUN-95 22:49:13  * Warning: 10 minutes /EZ
+10-JUN-95 22:54:12  * Warning: 5 minutes /EZ
+10-JUN-95 22:57:10  * Warning: 2 minutes /EZ
+10-JUN-95 22:58:09  * System shut (0 -> 400000)
+10-JUN-95 22:58:09  * Warning: 1 minute /EZ
+10-JUN-95 22:59:09  * System super shut (400000 -> 600000)
+10-JUN-95 22:59:10  * Warning: 0 minutes /EZ
+10-JUN-95 22:59:10  * Killed job 3, user OPER <CRS491> SL
+10-JUN-95 22:59:10  * Evicted job 4, user PERPOPER <XEXEC> RN
+10-JUN-95 22:59:10  * Evicted job 5, user PERPOPER <SYSLOG> RN
+10-JUN-95 22:59:10  * Evicted job 6, user PERPOPER <CRON> SW
+10-JUN-95 22:59:10  * Killed job 16, user OPER <WHERE> ^C
+10-JUN-95 22:59:31  * Killed job 7, user NSSC <1022F4> ^C
+10-JUN-95 23:00:08  * Killed job 11, user NSSC <1022F4> ^C
+10-JUN-95 23:00:11  * Killed job 20, user NETCON <1022F4> ^C
+10-JUN-95 23:00:33  * Killed job 18, user UK800 <1022F4> ^C
+10-JUN-95 23:03:40  * Killed job 8, user NSSC <1022F4> TI
+10-JUN-95 23:03:40  * Killed job 12, user UKMYEL <1022F4> TI
+10-JUN-95 23:03:40  * Killed job 14, user UK800 <1022F4> TI
+10-JUN-95 23:03:40  * Killed job 15, user FLMTECH <1022F4> TI
+10-JUN-95 23:03:40  * Killed job 19, user NETCON <1022F4> TI
+10-JUN-95 23:03:40  * Killed job 21, user NSSC <1022F4> TI
+10-JUN-95 23:03:40  * Killed job 22, user UKOPS <1022F4> TI
+10-JUN-95 23:03:42  * Killed job 26, user CSS800 <1022F4> TI
+10-JUN-95 23:03:42  * Killed job 33, user ECSC <1022F4> TI
+10-JUN-95 23:03:42  * Killed job 36, user CSS800 <1022F4> TI
+10-JUN-95 23:03:44  * Killed job 37, user BTHK <1022F4> TI
+10-JUN-95 23:10:49  * Killed job 1, user PJ <PAM> SL
+10-JUN-95 23:10:49  * Evicted job 2, user OPER <CHKPNT> TS
+10-JUN-95 23:10:53  * Hanging system...
+10-JUN-95 23:10:53  ** Session ends.
+
+3-JUN-95 22:12:47  ** Session begins: TAKEIT version 47.
+3-JUN-95 22:12:47  * Opername: ZACHARYE, Username: OPER
+3-JUN-95 22:12:49  AUTO 
+3-JUN-95 22:13:07  * Countdown = 47 minutes, Grace = 1
+3-JUN-95 22:13:07  * "System going down as per schedule."
+3-JUN-95 22:29:19  IMMUNE 16
+3-JUN-95 22:30:08  * Warning: 30 minutes /EZ
+3-JUN-95 22:50:08  * Warning: 10 minutes /EZ
+3-JUN-95 22:55:10  * Warning: 5 minutes /EZ
+3-JUN-95 22:58:07  * Warning: 2 minutes /EZ
+3-JUN-95 22:59:07  * System shut (0 -> 400000)
+3-JUN-95 22:59:08  * Warning: 1 minute /EZ
+3-JUN-95 23:00:07  * System super shut (400000 -> 600000)
+3-JUN-95 23:00:08  * Warning: 0 minutes /EZ
+3-JUN-95 23:00:11  * Killed job 3, user OPER <CRS974> SL
+3-JUN-95 23:00:11  * Evicted job 4, user PERPOPER <XEXEC> RN
+3-JUN-95 23:00:11  * Evicted job 5, user PERPOPER <SYSLOG> RN
+3-JUN-95 23:00:11  * Evicted job 6, user PERPOPER <CRON> RN
+3-JUN-95 23:00:12  * Killed job 10, user NSSC <1022F4> ^C
+3-JUN-95 23:00:12  * Killed job 13, user PAPDEV <LISTER> ^C
+3-JUN-95 23:00:12  * Killed job 26, user OPER <TITO> ^C
+3-JUN-95 23:00:14  * Killed job 41, user ECSC <1022F4> RN
+3-JUN-95 23:00:38  * Killed job 7, user NTS <1022F4> TI
+3-JUN-95 23:00:38  * Killed job 9, user UKMYEL <1022F4> TI
+3-JUN-95 23:00:38  * Killed job 11, user NTS <1022F4> TI
+3-JUN-95 23:00:38  * Killed job 12, user FLMTECH <1022F4> TI
+3-JUN-95 23:00:38  * Killed job 15, user NSSC <1022F4> TI
+3-JUN-95 23:00:39  * Killed job 17, user NOVAFIELD <1022F4> TI
+3-JUN-95 23:00:39  * Killed job 19, user NSSC <1022F4> RN
+3-JUN-95 23:00:39  * Killed job 21, user NTS <1022F4> TI
+3-JUN-95 23:00:42  * Killed job 22, user CSS800 <1022F4> RN
+3-JUN-95 23:00:42  * Killed job 23, user UKOPS <1022F4> TI
+3-JUN-95 23:00:42  * Killed job 25, user ENMC <1022F4> TI
+3-JUN-95 23:00:44  * Killed job 28, user ECSC <1022F4> TI
+3-JUN-95 23:00:44  * Killed job 30, user FLMTECH <GFD> TI
+3-JUN-95 23:00:44  * Killed job 31, user CSS800 <1022F4> TI
+3-JUN-95 23:00:45  * Killed job 32, user ENMC <1022F4> TI
+3-JUN-95 23:00:45  * Killed job 33, user NSCNET <1022F4> TI
+3-JUN-95 23:00:45  * Killed job 34, user UK800 <1022F4> TI
+3-JUN-95 23:00:47  * Killed job 37, user NETCON <1022F4> TI
+3-JUN-95 23:00:47  * Killed job 38, user NTS <1022F4> TI
+3-JUN-95 23:00:47  * Killed job 45, user NTS <1022F4> TI
+3-JUN-95 23:00:49  * Killed job 74, user NTS <1022F4> TI
+3-JUN-95 23:17:03  * Killed job 1, user PJ <PAM> SL
+3-JUN-95 23:17:03  * Evicted job 2, user OPER <CHKPNT> SW
+3-JUN-95 23:17:07  * Hanging system...
+3-JUN-95 23:17:07  ** Session ends.
+
+20-MAY-95 21:56:18  ** Session begins: TAKEIT version 47.
+20-MAY-95 21:56:18  * Opername: BERNARDO, Username: OPER
+20-MAY-95 21:56:22  AUTO 
+20-MAY-95 21:56:54  * Countdown = 1:03 hours, Grace = 5
+20-MAY-95 21:56:54  * "System going down as per schedule."
+20-MAY-95 22:30:01  * Warning: 30 minutes /BD
+20-MAY-95 22:50:02  * Warning: 10 minutes /BD
+20-MAY-95 22:54:58  * Warning: 5 minutes /BD
+20-MAY-95 22:57:58  * Warning: 2 minutes /BD
+20-MAY-95 22:58:58  * System shut (0 -> 400000)
+20-MAY-95 22:58:58  * Warning: 1 minute /BD
+20-MAY-95 22:59:58  * System super shut (400000 -> 600000)
+20-MAY-95 22:59:58  * Warning: 0 minutes /BD
+20-MAY-95 22:59:59  * Killed job 3, user OPER <CRS296> SL
+20-MAY-95 22:59:59  * Evicted job 4, user PERPOPER <XEXEC> RN
+20-MAY-95 22:59:59  * Evicted job 5, user PERPOPER <SYSLOG> RN
+20-MAY-95 22:59:59  * Evicted job 6, user PERPOPER <CRON> ML
+20-MAY-95 22:59:59  * Killed job 16, user OPER <TITO> ^C
+20-MAY-95 23:00:01  * Killed job 21, user NSSC <1022F4> ^C
+20-MAY-95 23:00:41  * Killed job 8, user ASIAPAC <1022F4> ^C
+20-MAY-95 23:04:28  * Killed job 10, user NETCON <1022F4> TI
+20-MAY-95 23:04:29  * Killed job 11, user NSCNET <1022F4> TI
+20-MAY-95 23:04:29  * Killed job 12, user UK800 <1022F4> TI
+20-MAY-95 23:04:29  * Killed job 13, user NTS <1022F4> TI
+20-MAY-95 23:04:29  * Killed job 14, user NSSC <1022F4> TI
+20-MAY-95 23:04:29  * Killed job 15, user BTSNG <1022F4> TI
+20-MAY-95 23:04:29  * Killed job 18, user NSSC <1022F4> TI
+20-MAY-95 23:04:31  * Killed job 19, user FLMTECH <1022F4> TI
+20-MAY-95 23:04:31  * Killed job 20, user NSSC <1022F4> TI
+20-MAY-95 23:04:31  * Killed job 22, user BTAUS <1022F4> TI
+20-MAY-95 23:04:32  * Killed job 23, user NETCON <1022F4> TI
+20-MAY-95 23:04:32  * Killed job 24, user NETCON <1022F4> TI
+20-MAY-95 23:04:33  * Killed job 25, user TELTEST <1022F4> TI
+20-MAY-95 23:04:34  * Killed job 26, user FLMTECH <1022F4> TI
+20-MAY-95 23:04:34  * Killed job 30, user ECSC <1022F4> TI
+20-MAY-95 23:04:35  * Killed job 31, user OPER <PSPATO> SL
+20-MAY-95 23:04:36  * Killed job 35, user UKMYEL <1022F4> TI
+20-MAY-95 23:04:36  * Killed job 38, user BTGER <1022F4> TI
+20-MAY-95 23:04:36  * Killed job 40, user NTS <1022F4> TI
+20-MAY-95 23:04:38  * Killed job 56, user NTS <1022F4> TI
+20-MAY-95 23:04:38  * Killed job 59, user ENMC <1022F4> TI
+20-MAY-95 23:04:39  * Killed job 76, user NTS <1022F4> TI
+20-MAY-95 23:04:42  * Killed job 114, user NTS <1022F4> TI
+20-MAY-95 23:05:01  * Killed job 1, user PJ <PAM> SL
+20-MAY-95 23:05:01  * Evicted job 2, usER <CHKPNT> TS
+20-MAY-95 23:05:05  * Hanging system...
+20-MAY-95 23:05:05  ** Session ends.
+
+18-MAY-95 20:07:37  ** Session begins: TAKEIT version 47.
+18-MAY-95 20:07:37  * Opername: ACOSTAP, Username: OPER
+18-MAY-95 20:07:40  AUTO 
+18-MAY-95 20:08:24  * Countdown = 51 minutes, Grace = 5
+18-MAY-95 20:08:24  * "System going down as per schedule."
+18-MAY-95 20:19:34  IMMUNE 58
+18-MAY-95 20:29:24  * Warning: 30 minutes /PA
+18-MAY-95 20:49:28  * Warning: 10 minutes /PA
+18-MAY-95 20:54:27  * Warning: 5 minutes /PA
+18-MAY-95 20:57:24  * Warning: 2 minutes /PA
+18-MAY-95 20:59:03  * System shut (0 -> 400000)
+18-MAY-95 20:59:06  * Warning: 0 minutes /PA
+18-MAY-95 20:59:24  * System super shut (400000 -> 600000)
+18-MAY-95 20:59:24  * Warning: 0 minutes /PA
+18-MAY-95 20:59:27  * Killed job 3, user OPER <CRS687> SL
+18-MAY-95 20:59:27  * Evicted job 4, user PERPOPER <XEXEC> RN
+18-MAY-95 20:59:27  * Evicted job 5, user PERPOPER <SYSLOG> RN
+18-MAY-95 20:59:27  * Evicted job 6, user PERPOPER <CRON> RN
+18-MAY-95 20:59:27  * Killed job 13, user NSSC <1022F4> ^C
+18-MAY-95 20:59:28  * Killed job 16, user NSCNET <INIT> ^C
+18-MAY-95 21:01:39  * Killed job 67, user CSS800 <LOGOUT> SW
+18-MAY-95 21:02:30  * Killed job 49, user NOVAFIELD <1022F4> ^C
+18-MAY-95 21:03:41  * Killed job 81, user NSSC <1022F4> ^C
+18-MAY-95 21:03:54  * Killed job 7, user UKMYEL <1022F4> TI
+18-MAY-95 21:03:54  * Killed job 9, user BTHK <1022F4> TI
+18-MAY-95 21:03:54  * Killed job 10, user UKOPS <1022F4> TI
+18-MAY-95 21:03:55  * Killed job 11, user NSCNET <1022F4> TI
+18-MAY-95 21:03:55  * Killed job 12, user CSS800 <1022F4> TI
+18-MAY-95 21:03:55  * Killed job 14, user NOVAFIELD <1022F4> TI
+18-MAY-95 21:03:55  * Killed job 15, user BTSNG <1022F4> TI
+18-MAY-95 21:03:57  * Killed job 18, user FLMTECH <1022F4> TI
+18-MAY-95 21:03:57  * Killed job 19, user ENMC <1022F4> TI
+18-MAY-95 21:03:57  * Killed job 20, user NSSC <1022F4> TI
+18-MAY-95 21:03:59  * Killed job 22, user BTGER <1022F4> TI
+18-MAY-95 21:03:59  * Killed job 23, user NSCNET <1022F4> TI
+18-MAY-95 21:03:59  * Killed job 24, user ENMC <1022F4> TI
+18-MAY-95 21:04:01  * Killed job 25, user FLMTECH <1022F4> TI
+18-MAY-95 21:04:01  * Killed job 26, user CSS800 <1022F4> TI
+18-MAY-95 21:04:01  * Killed job 27, user NSSC <1022F4> TI
+18-MAY-95 21:04:03  * Killed job 28, user TELTEST <1022F4> TI
+18-MAY-95 21:04:03  * Killed job 29, user CSS800 <1022F4> TI
+18-MAY-95 21:04:05  * Killed job 31, user FLMTECH <1022F4> TI
+18-MAY-95 21:04:05  * Killed job 32, user CSS800 <1022F4> TI
+18-MAY-95 21:04:05  * Killed job 33, user UKMYEL <1022F4> TI
+18-MAY-95 21:04:09  * Killed job 34, user NOVAFIELD <1022F4> TI
+18-MAY-95 21:04:09  * Killed job 35, user NSSC <1022F4> TI
+18-MAY-95 21:04:09  * Killed job 36, user NETCON <1022F4> TI
+18-MAY-95 21:04:12  * Killed job 37, user NTS <1022F4> TI
+18-MAY-95 21:04:12  * Killed job 39, user NOVAFIELD <1022F4> TI
+18-MAY-95 21:04:12  * Killed job 40, user NTS <1022F4> TI
+18-MAY-95 21:04:17  * Killed job 42, user NSSC <1022F4> TI
+18-MAY-95 21:04:17  * Killed job 43, user NSSC <1022F4> TI
+18-MAY-95 21:04:17  * Killed job 44, user NETCON <1022F4> TI
+18-MAY-95 21:04:21  * Killed job 47, user NTS <1022F4> TI
+18-MAY-95 21:04:21  * Killed job 48, user NTS <1022F4> TI
+18-MAY-95 21:04:21  * Killed job 51, user BTHK <1022F4> TI
+18-MAY-95 21:04:25  * Killed job 52, user BTHK <1022F4> TI
+18-MAY-95 21:04:25  * Killed job 53, user NETCON <1022F4> TI
+18-MAY-95 21:04:25  * Killed job 55, user NTS <1022F4> TI
+18-MAY-95 21:04:27  * Killed job 59, user CSS800 <1022F4> TI
+18-MAY-95 21:04:27  * Killed job 61, user UKMYEL <1022F4> TI
+18-MAY-95 21:04:27  * Killed job 92, user NTS <1022F4> TI
+18-MAY-95 21:04:34  * Killed job 98, user NTS <1022F4> TI
+18-MAY-95 21:04:34  * Killed job 110, user NTS <1022F4> RN
+18-MAY-95 21:16:45  * Killed job 1, user PJ <PAM> SL
+18-MAY-95 21:16:45  * Evicted job 2, user OPER <CHKPNT> TS
+18-MAY-95 21:16:49  * Hanging system...
+18-MAY-95 21:16:49  ** Session ends.
+
+6-MAY-95 21:58:49  ** Session begins: TAKEIT version 47.
+6-MAY-95 21:58:49  * Opername: ZACHARYE, Username: OPER
+6-MAY-95 21:58:51  AUTO 
+6-MAY-95 21:59:09  * Countdown = 60 minutes, Grace = 5
+6-MAY-95 21:59:09  * "System going down as per schedule."
+6-MAY-95 22:29:16  * Warning: 30 minutes /EZ
+6-MAY-95 22:49:14  * Warning: 10 minutes /EZ
+6-MAY-95 22:54:13  * Warning: 5 minutes /EZ
+6-MAY-95 22:57:13  * Warning: 2 minutes /EZ
+6-MAY-95 22:58:12  * System shut (0 -> 400000)
+6-MAY-95 22:58:12  * Warning: 1 minute /EZ
+6-MAY-95 22:59:12  * System super shut (400000 -> 600000)
+6-MAY-95 22:59:12  * Warning: 0 minutes /EZ
+6-MAY-95 22:59:14  * Killed job 3, user OPER <CRS984> SL
+6-MAY-95 22:59:14  * Evicted job 4, user PERPOPER <XEXEC> RN
+6-MAY-95 22:59:14  * Evicted job 5, user PERPOPER <SYSLOG> RN
+6-MAY-95 22:59:14  * Evicted job 6, user PERPOPER <CRON> RN
+6-MAY-95 22:59:14  * Killed job 10, user NSSC <1022F4> ^C
+6-MAY-95 22:59:16  * Killed job 12, user OPER <MAGCON> ^C
+6-MAY-95 22:59:16  * Killed job 23, user OPER <TITO> ^C
+6-MAY-95 22:59:25  * Killed job 29, user BTITA <LOGOUT> RN
+6-MAY-95 22:59:25  ?can't halt frame with JACCT: job 29, user BTITA <LOGOUT> RN
+6-MAY-95 22:59:45  * Killed job 15, user NSSC <1022F4> ^C
+6-MAY-95 23:03:42  * Killed job 8, user NETCON <1022F4> TI
+6-MAY-95 23:03:42  * Killed job 9, user UKOPS <1022F4> TI
+6-MAY-95 23:03:42  * Killed job 11, user NTS <1022F4> TI
+6-MAY-95 23:03:43  * Killed job 13, user ENMC <1022F4> TI
+6-MAY-95 23:03:43  * Killed job 14, user CSS800 <1022F4> TI
+6-MAY-95 23:03:43  * Killed job 16, user ECSC <1022F4> TI
+6-MAY-95 23:03:44  * Killed job 17, user NTS <1022F4> TI
+6-MAY-95 23:03:44  * Killed job 18, user NETCON <1022F4> TI
+6-MAY-95 23:03:44  * Killed job 19, user ENMC <1022F4> TI
+6-MAY-95 23:03:46  * Killed job 20, user ENMC <1022F4> TI
+6-MAY-95 23:03:46  * Killed job 21, user ECSC <1022F4> TI
+6-MAY-95 23:03:46  * Killed job 25, user NSSC <1022F4> TI
+6-MAY-95 23:03:48  * Killed job 26, user NETCON <1022F4> TI
+6-MAY-95 23:03:48  * Killed job 27, user UKMYEL <1022F4> TI
+6-MAY-95 23:03:48  * Killed job 28, user UKMYEL <1022F4> TI
+6-MAY-95 23:03:50  * Killed job 30, user TELECOMSUP <1022F4> TI
+6-MAY-95 23:03:50  * Killed job 31, user NTS <1022F4> TI
+6-MAY-95 23:03:50  * Killed job 32, user UKOPS <1022F4> TI
+6-MAY-95 23:03:52  * Killed job 39, user NSCNET <1022F4> TI
+6-MAY-95 23:03:52  * Killed job 43, user TELECOMSUP <1022F4> TI
+6-MAY-95 23:03:52  * Killed job 46, user NTS <1022F4> TI
+6-MAY-95 23:03:57  * Killed job 52, user NSSC <1022F4> TI
+6-MAY-95 23:03:57  * Killed job 59, user NTS <1022F4> TI
+6-MAY-95 23:03:57  * Killed job 95, user NTS <1022F4> TI
+6-MAY-95 23:04:01  * Killed job 108, user TELTEST <1022F4> TI
+6-MAY-95 23:04:18  * Killed job 1, user PJ <PAM> SL
+6-MAY-95 23:04:18  * Evicted job 2, user OPER <CHKPNT> TS
+6-MAY-95 23:04:24  * Hanging system...
+6-MAY-95 23:04:24  ** Session ends.
+
+29-APR-95 22:06:02  ** Session begins: TAKEIT version 47.
+29-APR-95 22:06:02  * Opername: ZACHARYE, Username: OPER
+29-APR-95 22:06:04  AUTO 
+29-APR-95 22:06:25  * Countdown = 53 minutes, Grace = 5
+29-APR-95 22:06:25  * "System going down as per schedule."
+29-APR-95 22:29:26  * Warning: 30 minutes /EZ
+29-APR-95 22:49:29  * Warning: 10 minutes /EZ
+29-APR-95 22:54:26  * Warning: 5 minutes /EZ
+29-APR-95 22:57:25  * Warning: 2 minutes /EZ
+29-APR-95 22:58:25  * System shut (0 -> 400000)
+29-APR-95 22:58:25  * Warning: 1 minute /EZ
+29-APR-95 22:59:25  * System super shut (400000 -> 600000)
+29-APR-95 22:59:25  * Warning: 0 minutes /EZ
+29-APR-95 22:59:26  * Killed job 3, user OPER <CRS244> SL
+29-APR-95 22:59:26  * Evicted job 4, user PERPOPER <XEXEC> RN
+29-APR-95 22:59:26  * Evicted job 5, user PERPOPER <SYSLOG> RN
+29-APR-95 22:59:27  * Evicted job 6, user PERPOPER <CRON> RN
+29-APR-95 22:59:37  * Killed job 26, user NSSC <1022F4> ^C
+29-APR-95 23:03:55  * Killed job 7, user TELECOMSUP <1022F4> TI
+29-APR-95 23:03:55  * Killed job 9, user UKMYEL <1022F4> TI
+29-APR-95 23:03:55  * Killed job 10, user NTS <1022F4> TI
+29-APR-95 23:03:56  * Killed job 12, user NSCEAST <1022F4> TI
+29-APR-95 23:03:56  * Killed job 15, user ASIAPAC <1022F4> TI
+29-APR-95 23:03:56  * Killed job 17, user BTAUS <1022F4> TI
+29-APR-95 23:03:58  * Killed job 19, user FLMTECH <1022F4> TI
+29-APR-95 23:03:58  * Killed job 20, user NSSC <1022F4> TI
+29-APR-95 23:03:58  * Killed job 21, user MCOLLINS <1022F4> TI
+29-APR-95 23:04:00  * Killed job 22, user BTSNG <1022F4> TI
+29-APR-95 23:04:00  * Killed job 23, user NETCON <1022F4> TI
+29-APR-95 23:04:00  * Killed job 24, user NETCON <1022F4> TI
+29-APR-95 23:04:02  * Killed job 25, user CSS800 <1022F4> TI
+29-APR-95 23:04:02  * Killed job 28, user TELECOMSUP <1022F4> TI
+29-APR-95 23:04:02  * Killed job 29, user NSCNET <1022F4> TI
+29-APR-95 23:04:04  * Killed job 30, user ECSC <1022F4> TI
+29-APR-95 23:04:04  * Killed job 31, user CSS800 <1022F4> TI
+29-APR-95 23:04:04  * Killed job 32, user UKOPS <1022F4> TI
+29-APR-95 23:04:06  * Killed job 35, user ECSC <1022F4> TI
+29-APR-95 23:04:06  * Killed job 37, user TELECOMSUP <1022F4> TI
+29-APR-95 23:04:06  * Killed job 43, user NTS <1022F4> TI
+29-APR-95 23:04:09  * Killed job 55, user NTS <1022F4> TI
+29-APR-95 23:04:09  * Killed job 56, user NTS <1022F4> TI
+29-APR-95 23:04:09  * Killed job 61, user NTS <1022F4> TI
+29-APR-95 23:04:13  * Killed job 69, user NTS <1022F4> TI
+29-APR-95 23:04:13  * Killed job 79, user NTS <1022F4> TI
+29-APR-95 23:04:33  * Killed job 1, user PJ <PAM> SL
+29-APR-95 23:04:33  * Evicted job 2, user OPER <CHKPNT> TS
+29-APR-95 23:04:37  * Hanging system...
+29-APR-95 23:04:37  ** Session ends.
+
+28-APR-95 10:02:33  ** Session begins: TAKEIT version 47.
+28-APR-95 10:02:33  * Opername: HIGHTOWER, Username: OPER
+28-APR-95 10:02:33  * Another job set SCHED 400000 from 0
+28-APR-95 10:02:53  KILL <1022F4>
+28-APR-95 10:02:53  * Killed job 7, user FLMTECH <1022F4> TI
+28-APR-95 10:02:53  * Killed job 9, user DGODARD <1022F4> TI
+28-APR-95 10:02:53  * Killed job 11, user NOVAFIELD <1022F4> TI
+28-APR-95 10:02:53  * Killed job 12, user FLMTECH <1022F4> SL
+28-APR-95 10:02:54  * Killed job 13, user CSS800 <1022F4> RN
+28-APR-95 10:02:54  * Killed job 14, user NSSC <1022F4> TI
+28-APR-95 10:02:54  * Killed job 15, user NOVAFIELD <1022F4> ^C
+28-APR-95 10:02:56  * Killed job 17, user FLMTECH <1022F4> TI
+28-APR-95 10:02:56  * Killed job 18, user NTS <1022F4> TI
+28-APR-95 10:02:56  * Killed job 19, user NSSC <1022F4> ^C
+28-APR-95 10:02:58  * Killed job 20, user ECSC <1022F4> TI
+28-APR-95 10:02:58  * Killed job 21, user NOVAFIELD <1022F4> TI
+28-APR-95 10:02:58  * Killed job 22, user NSSC <1022F4> TI
+28-APR-95 10:03:00  * Killed job 23, user BTNL <1022F4> TI
+28-APR-95 10:03:00  * Killed job 24, user FLMTECH <1022F4> TI
+28-APR-95 10:03:00  * Killed job 25, user NOVAFIELD <1022F4> TI
+28-APR-95 10:03:02  * Killed job 26, user CSS800 <1022F4> TI
+28-APR-95 10:03:02  * Killed job 27, user ECSC <1022F4> SL
+28-APR-95 10:03:02  * Killed job 28, user FLMTECH <1022F4> TI
+28-APR-95 10:03:04  * Killed job 29, user CSS800 <1022F4> TI
+28-APR-95 10:03:04  * Killed job 30, user CSS800 <1022F4> TI
+28-APR-95 10:03:04  * Killed job 31, user NOVAFIELD <1022F4> TI
+28-APR-95 10:03:08  * Killed job 32, user NTS <1022F4> TI
+28-APR-95 10:03:08  * Killed job 33, user CSS800 <1022F4> TI
+28-APR-95 10:03:08  * Killed job 34, user CSS800 <1022F4> TI
+28-APR-95 10:03:13  * Killed job 35, user CSS800 <1022F4> TI
+28-APR-95 10:03:13  * Killed job 36, user CSS800 <1022F4> TI
+28-APR-95 10:03:13  * Killed job 37, user NSSC <1022F4> TI
+28-APR-95 10:03:17  * Killed job 38, user UK800 <1022F4> TI
+28-APR-95 10:03:17  * Killed job 39, user ENMC <1022F4> TI
+28-APR-95 10:03:17  * Killed job 40, user NOVAFIELD <1022F4> TI
+28-APR-95 10:03:21  * Killed job 41, user CSS800 <1022F4> TI
+28-APR-95 10:03:21  * Killed job 42, user NSSC <1022F4> TI
+28-APR-95 10:03:21  * Killed job 43, user DBENG <1022F4> TI
+28-APR-95 10:03:21  * Killed job 44, user NSSC <1022F4> TI
+28-APR-95 10:03:29  * Killed job 45, user FLMTECH <1022F4> TI
+28-APR-95 10:03:29  * Killed job 46, user NTS <1022F4> TI
+28-APR-95 10:03:29  * Killed job 47, user FLMTECH <1022F4> TI
+28-APR-95 10:03:33  * Killed job 48, user NSSC <1022F4> TI
+28-APR-95 10:03:33  * Killed job 49, user ETSVA <1022F4> TI
+28-APR-95 10:03:33  * Killed job 50, user CSS800 <1022F4> TI
+28-APR-95 10:03:37  * Killed job 51, user NOVAFIELD <1022F4> TI
+28-APR-95 10:03:37  * Killed job 52, user TELECOMSUP <1022F4> TI
+28-APR-95 10:03:37  * Killed job 53, user NOVAFIELD <1022F4> TI
+28-APR-95 10:03:42  * Killed job 54, user UK800 <1022F4> TI
+28-APR-95 10:03:42  * Killed job 56, user SCHED <1022F4> RN
+28-APR-95 10:03:42  * Killed job 57, user CSS800 <1022F4> TI
+28-APR-95 10:03:47  * Killed job 58, user NETCON <1022F4> RN
+28-APR-95 10:03:47  * Killed job 59, user NTS <1022F4> TI
+28-APR-95 10:03:47  * Killed job 61, user MCOLLINS <1022F4> TI
+28-APR-95 10:03:48  * Killed job 62, user ECSC <1022F4> TI
+28-APR-95 10:03:48  * Killed job 63, user NOVAFIELD <1022F4> TI
+28-APR-95 10:03:48  * Killed job 65, user BTFR <1022F4> TI
+28-APR-95 10:03:51  * Killed job 67, user FLMTECH <1022F4> TI
+28-APR-95 10:03:51  * Killed job 68, user CSS800 <1022F4> TI
+28-APR-95 10:03:51  * Killed job 70, user ENMC <1022F4> RN
+28-APR-95 10:03:57  * Killed job 71, user DGODARD <1022F4> TI
+28-APR-95 10:03:57  * Killed job 72, user TELECOMSUP <1022F4> TI
+28-APR-95 10:03:57  * Killed job 73, user TELECOMSUP <1022F4> TI
+28-APR-95 10:04:01  * Killed job 74, user CSS800 <1022F4> TI
+28-APR-95 10:04:01  * Killed job 75, user UK800 <1022F4> TI
+28-APR-95 10:04:01  * Killed job 76, user NTS <1022F4> TI
+28-APR-95 10:04:05  * Killed job 77, user MBETTY <1022F4> TI
+28-APR-95 10:04:05  * Killed job 78, user UK800 <1022F4> TI
+28-APR-95 10:04:05  * Killed job 79, user NSCEAST <1022F4> TI
+28-APR-95 10:04:09  * Killed job 80, user UK800 <1022F4> TI
+28-APR-95 10:04:09  * Killed 
+** file truncated **
+  w+kZZ
